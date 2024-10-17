@@ -1,1 +1,4 @@
-Testing github config
+- Git
+- File Color
+- Iconize 
+- Templater

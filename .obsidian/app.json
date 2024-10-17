@@ -1,1 +1,8 @@
-{}
+{
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "temporal-folder",
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "livePreview": false
+}

@@ -1,1 +1,8 @@
-{}
+{
+  "accentColor": "#85adff",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "image-filter"
+  ]
+}
