@@ -16,6 +16,11 @@
       "id": "H5OfWseCLT2ax5qN4nilG",
       "name": "temporal-files",
       "value": "#c23000"
+    },
+    {
+      "id": "HBW64mh4lmywDn9McrJK6",
+      "name": "templates",
+      "value": "#00bdb0"
     }
   ],
   "fileColors": [
@@ -28,8 +33,24 @@
       "color": "K8erBo4Od2fcUtwSDVkno"
     },
     {
-      "path": "temporal-folder",
+      "path": "temp",
       "color": "H5OfWseCLT2ax5qN4nilG"
+    },
+    {
+      "path": "templates",
+      "color": "HBW64mh4lmywDn9McrJK6"
+    },
+    {
+      "path": "templates/file-templates",
+      "color": "HBW64mh4lmywDn9McrJK6"
+    },
+    {
+      "path": "templates/folder-templates",
+      "color": "HBW64mh4lmywDn9McrJK6"
+    },
+    {
+      "path": "templates/folder-templates/semester/subject/attachments",
+      "color": "K8erBo4Od2fcUtwSDVkno"
     }
   ]
 }
