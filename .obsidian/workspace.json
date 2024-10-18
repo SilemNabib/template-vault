@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "918d2f07e65f77c3",
+        "id": "b717c9e1dc5ee034",
         "type": "tabs",
         "children": [
           {
-            "id": "29c9d81bd7bd0300",
+            "id": "a79393fa6c5e65d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "University/6th Semester/Arquitectura De Software/Repaso Parcial 2 (Practico).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -182,12 +182,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29c9d81bd7bd0300",
+  "active": "a79393fa6c5e65d1",
   "lastOpenFiles": [
-    "University/6th Semester/Arquitectura De Software/Modelos de Acceso a la Memoria.md",
-    "temp/Untitled.md",
-    "Untitled.md",
+    "University/6th Semester/Arquitectura De Software/RAS, Requerimientos de Atributos de Calidad.md",
     "University/6th Semester/Arquitectura De Software/Repaso Parcial 2 (Practico).md",
+    "docs/colors.md",
+    "docs/snippets.md",
+    "University/6th Semester/Arquitectura De Software/Arquitecturas de Procesamiento, Taxonomía de Flynn.md",
+    "University/6th Semester/Arquitectura De Software/Modelos de Acceso a la Memoria.md",
+    "University/6th Semester/Arquitectura De Software/attachments/diagram-20241017.png",
+    "docs/plugins.md",
+    "University/6th Semester/Arquitectura De Software/attachments/diagram-20241017(1).png",
+    "University/6th Semester/Arquitectura De Software/attachments",
+    "diagram-20241017(1).png",
+    "docs/useful-links.md",
+    "Untitled.md",
     "University/6th Semester/Arquitectura De Software",
     "templates/folder-templates/semester/subject/attachments/readings",
     "templates/folder-templates/semester/subject/attachments",
@@ -202,14 +211,10 @@
     "temporal-folder/s.md",
     "templates/file-templates",
     "templates/folder-templates",
-    "docs/plugins.md",
     "temporal-folder/example.md",
     "templates/folder-templates/notepad/notepad-name-map.canvas",
-    "templates/folder-templates/notepad/example-3",
-    "docs/snippets.md",
     "docs/attachments/Pasted image 20241017133554.png",
     "docs/attachments/diagram-20241017.png",
-    "docs/useful-links.md",
     "docs/shortcuts.md"
   ]
 }

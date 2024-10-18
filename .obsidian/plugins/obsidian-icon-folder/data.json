@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
+      "LiPalette",
       "LiGraduationCap",
       "LiSquareEqual",
-      "LiPanelLeftDashed",
-      "LiFolderEdit",
-      "LiFilePen"
+      "LiPanelLeftDashed"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -19,7 +19,7 @@
         "icon": "LiArchive",
         "for": "everything",
         "order": 0,
-        "color": "#ffc800"
+        "color": "#ff9238"
       }
     ],
     "extraMargin": {
@@ -43,11 +43,11 @@
   },
   "templates": {
     "iconName": "LiLayoutTemplate",
-    "iconColor": "#00bdb0"
+    "iconColor": "#004cff"
   },
   "docs": {
     "iconName": "LiBookOpen",
-    "iconColor": "#ff9238"
+    "iconColor": "#81ff1a"
   },
   "docs/attachments": "LiArchive",
   "docs/plugins.md": "LiUnplug",
@@ -56,19 +56,20 @@
   "docs/useful-links.md": "LiLinksGoingOut",
   "templates/file-templates": {
     "iconName": "LiFilePen",
-    "iconColor": "#00bdb0"
+    "iconColor": "#004cff"
   },
   "templates/file-templates/root-template.md": "LiNotepadTextDashed",
   "temp": {
     "iconName": "LiClockArrowUp",
-    "iconColor": "#c23000"
+    "iconColor": "#f5ff70"
   },
   "University/6th Semester": "LiSquareEqual",
   "University": "LiGraduationCap",
   "templates/folder-templates": {
     "iconName": "LiFolderEdit",
-    "iconColor": "#00bdb0"
+    "iconColor": "#004cff"
   },
   "templates/folder-templates/notepad": "LiPanelLeftDashed",
-  "templates/folder-templates/semester": "LiSquareEqual"
+  "templates/folder-templates/semester": "LiSquareEqual",
+  "docs/colors.md": "LiPalette"
 }

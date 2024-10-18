@@ -4,5 +4,6 @@
   "newFileFolderPath": "temp",
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "livePreview": false
+  "livePreview": false,
+  "defaultViewMode": "preview"
 }

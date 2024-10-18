@@ -5,22 +5,27 @@
     {
       "id": "K8erBo4Od2fcUtwSDVkno",
       "name": "attachments",
-      "value": "#ffc800"
+      "value": "#ff9238"
     },
     {
       "id": "nhlIsY6XC6spkjAKBRl7M",
       "name": "docs",
-      "value": "#ff9238"
+      "value": "#81ff1a"
     },
     {
       "id": "H5OfWseCLT2ax5qN4nilG",
       "name": "temporal-files",
-      "value": "#c23000"
+      "value": "#f5ff70"
     },
     {
       "id": "HBW64mh4lmywDn9McrJK6",
       "name": "templates",
-      "value": "#00bdb0"
+      "value": "#004cff"
+    },
+    {
+      "id": "tkYg5GNUNxVt6Pi3Ec-O7",
+      "name": "pending",
+      "value": "#ffc038"
     }
   ],
   "fileColors": [
@@ -51,6 +56,18 @@
     {
       "path": "templates/folder-templates/semester/subject/attachments",
       "color": "K8erBo4Od2fcUtwSDVkno"
+    },
+    {
+      "path": "University/6th Semester/Arquitectura De Software/attachments",
+      "color": "K8erBo4Od2fcUtwSDVkno"
+    },
+    {
+      "path": "University/6th Semester/Arquitectura De Software/Arquitecturas de Procesamiento, Taxonomía de Flynn.md",
+      "color": "tkYg5GNUNxVt6Pi3Ec-O7"
+    },
+    {
+      "path": "University/6th Semester/Arquitectura De Software/RAS, Requerimientos de Atributos de Calidad.md",
+      "color": "tkYg5GNUNxVt6Pi3Ec-O7"
     }
   ]
 }
