@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "University/6th Semester/Arquitectura De Software/Repaso Parcial 2 (Practico).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -89,7 +89,7 @@
       {
         "id": "56899a58a3288382",
         "type": "tabs",
-        "dimension": 64.38631790744466,
+        "dimension": 55.79710144927537,
         "children": [
           {
             "id": "7f9c1410e1833d33",
@@ -151,7 +151,7 @@
       {
         "id": "af00e357952386b3",
         "type": "tabs",
-        "dimension": 35.61368209255533,
+        "dimension": 44.20289855072464,
         "children": [
           {
             "id": "b0c332188527c5fa",
@@ -196,14 +196,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c82613a79df43a9",
+  "active": "7f9c1410e1833d33",
   "lastOpenFiles": [
-    "University/6th Semester/Arquitectura De Software/RAS, Requerimientos de Atributos de Calidad.md",
+    "University/6th Semester/Arquitectura De Software/Modelos de Acceso a la Memoria.md",
     "University/6th Semester/Arquitectura De Software/Repaso Parcial 2 (Practico).md",
+    "University/6th Semester/Arquitectura De Software/RAS, Requerimientos de Atributos de Calidad.md",
     "University/6th Semester/Arquitectura De Software/QAW, Quality Attribute Workshop.md",
     "University/6th Semester/Arquitectura De Software/Atributos de Calidad.md",
     "University/6th Semester/Arquitectura De Software/Dorfman, Método De Análisis De Requerimientos Funcionales.md",
-    "University/6th Semester/Arquitectura De Software/Modelos de Acceso a la Memoria.md",
     "docs/colors.md",
     "docs/snippets.md",
     "University/6th Semester/Arquitectura De Software/Taxonomía de Flynn, Arquitecturas de Procesamiento.md",

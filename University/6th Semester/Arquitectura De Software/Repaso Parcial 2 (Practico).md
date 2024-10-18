@@ -106,14 +106,14 @@
 
 - [ ] Operación y deployment 
 - [ ] Familia de producto 
-- [ ] Volumen de funcionalidad 
+- [x] Volumen de funcionalidad 
 - [ ] Determinación de tecnología 
 - [ ] Atributos de calidad
 
 ###### 13. Conjunto de requerimientos funcionales similares en su esencia, que solo al considerarse como conjunto, inciden en la arquitectura del sistema.
 
 - [ ] Operación y deployment 
-- [ ] Familia de producto 
+- [x] Familia de producto 
 - [ ] Volumen de funcionalidad 
 - [ ] Determinación de tecnología 
 - [ ] Atributos de calidad
@@ -123,12 +123,12 @@
 - [ ] Operación y deployment 
 - [ ] Familia de producto 
 - [ ] Volumen de funcionalidad 
-- [ ] Determinación de tecnología 
+- [x] Determinación de tecnología 
 - [ ] Atributos de calidad
 
 ###### 15. Requerimientos que implican estrategias específicas de instalación y configuración de ejecución, o formas específicas (sobre todo no convencionales) de cómo usar o interactuar con el sistema.
 
-- [ ] Operación y deployment 
+- [x] Operación y deployment 
 - [ ] Familia de producto 
 - [ ] Volumen de funcionalidad 
 - [ ] Determinación de tecnología 
@@ -140,7 +140,7 @@
 - [ ] Familia de producto 
 - [ ] Volumen de funcionalidad 
 - [ ] Determinación de tecnología 
-- [ ] Atributos de calidad
+- [x] Atributos de calidad
 
 ###### 17. Marque todas las opciones que son afirmaciones ciertas para el análisis de requerimientos con el método de Dorfman: Seleccione una o más de una:
 
@@ -169,7 +169,7 @@
 
 ###### 20. Empareje cada uno de las elementos del formato de escenario QAW con sus respectivas definiciones: Condición que activa o dispara la situación planteada por el escenario.
 
-- [ ] Estímulo
+- [x] Estímulo
 - [ ] Medida de respuesta
 - [ ] Respuesta
 - [ ] Fuente del estímulo
@@ -179,7 +179,7 @@
 ###### 21. Unidad de medida (métrica) y respectivo valor de referencia que debe observarse en el comportamiento ideal del sistema frente al escenario.
 
 - [ ] Estímulo
-- [ ] Medida de respuesta
+- [x] Medida de respuesta
 - [ ] Respuesta
 - [ ] Fuente del estímulo
 - [ ] Entorno (Environment)
@@ -189,7 +189,7 @@
 
 - [ ] Estímulo
 - [ ] Medida de respuesta
-- [ ] Respuesta
+- [x] Respuesta
 - [ ] Fuente del estímulo
 - [ ] Entorno (Environment)
 - [ ] Artefactos
@@ -199,7 +199,7 @@
 - [ ] Estímulo
 - [ ] Medida de respuesta
 - [ ] Respuesta
-- [ ] Fuente del estímulo
+- [x] Fuente del estímulo
 - [ ] Entorno (Environment)
 - [ ] Artefactos
 
@@ -209,7 +209,7 @@
 - [ ] Medida de respuesta
 - [ ] Respuesta
 - [ ] Fuente del estímulo
-- [ ] Entorno (Environment)
+- [x] Entorno (Environment)
 - [ ] Artefactos
 
 
@@ -220,7 +220,7 @@
 - [ ] Respuesta
 - [ ] Fuente del estímulo
 - [ ] Entorno (Environment)
-- [ ] Artefactos
+- [x] Artefactos
 
 ###### 26. Ordene los pasos para obtener el diseño arquitectónico final de un sistema de software:
 
@@ -256,4 +256,11 @@
 - Refinamiento de escenarios
 - Identificación de drivers arquitectónicos potenciales
 
-> 
+> 1. Presentación e introducción del método QAW
+> 2. Presentación del negocio y su misión
+> 3. Presentación de los diagramas de arquitectura preliminares
+> 4. Identificación de drivers arquitectónicos potenciales
+> 5. Lluvia de ideas de escenarios de QAW
+> 6. Consolidación de escenarios
+> 7. Priorización de escenarios
+> 8. Refinamiento de escenarios
