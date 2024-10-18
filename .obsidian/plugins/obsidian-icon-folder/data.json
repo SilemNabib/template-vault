@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNewspaper",
       "LiArchive",
       "LiPalette",
       "LiGraduationCap",
-      "LiSquareEqual",
-      "LiPanelLeftDashed"
+      "LiSquareEqual"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -71,5 +71,6 @@
   },
   "templates/folder-templates/notepad": "LiPanelLeftDashed",
   "templates/folder-templates/semester": "LiSquareEqual",
-  "docs/colors.md": "LiPalette"
+  "docs/colors.md": "LiPalette",
+  "University/6th Semester/Arquitectura De Software/Repaso Parcial 2 (Practico).md": "LiNewspaper"
 }
