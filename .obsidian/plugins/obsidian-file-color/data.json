@@ -20,7 +20,7 @@
     {
       "id": "HBW64mh4lmywDn9McrJK6",
       "name": "templates",
-      "value": "#004cff"
+      "value": "#009dff"
     },
     {
       "id": "tkYg5GNUNxVt6Pi3Ec-O7",
@@ -30,59 +30,59 @@
   ],
   "fileColors": [
     {
-      "path": "docs",
+      "path": "00 - Docs",
       "color": "nhlIsY6XC6spkjAKBRl7M"
     },
     {
-      "path": "docs/attachments",
+      "path": "00 - Docs/attachments",
       "color": "K8erBo4Od2fcUtwSDVkno"
     },
     {
-      "path": "temp",
+      "path": "01 - Temp",
       "color": "H5OfWseCLT2ax5qN4nilG"
     },
     {
-      "path": "templates",
+      "path": "02 - Templates",
       "color": "HBW64mh4lmywDn9McrJK6"
     },
     {
-      "path": "templates/file-templates",
+      "path": "02 - Templates/file-templates",
       "color": "HBW64mh4lmywDn9McrJK6"
     },
     {
-      "path": "templates/folder-templates",
+      "path": "02 - Templates/folder-templates",
       "color": "HBW64mh4lmywDn9McrJK6"
     },
     {
-      "path": "templates/folder-templates/semester/subject/attachments",
+      "path": "02 - Templates/folder-templates/semester/subject/attachments",
       "color": "K8erBo4Od2fcUtwSDVkno"
     },
     {
-      "path": "University/6th Semester/Arquitectura De Software/attachments",
+      "path": "03 - University/6th Semester/Arquitectura De Software/attachments",
       "color": "K8erBo4Od2fcUtwSDVkno"
     },
     {
-      "path": "University/6th Semester/Arquitectura De Software/Taxonomía de Flynn, Arquitecturas de Procesamiento.md",
+      "path": "03 - University/6th Semester/Arquitectura De Software/Taxonomía de Flynn, Arquitecturas de Procesamiento.md",
       "color": "tkYg5GNUNxVt6Pi3Ec-O7"
     },
     {
-      "path": "University/6th Semester/Arquitectura De Software/RAS, Requerimientos de Atributos de Calidad.md",
+      "path": "03 - University/6th Semester/Arquitectura De Software/RAS, Requerimientos de Atributos de Calidad.md",
       "color": "tkYg5GNUNxVt6Pi3Ec-O7"
     },
     {
-      "path": "University/6th Semester/Arquitectura De Software/Dorfman, Método De Análisis De Requerimientos Funcionales.md",
+      "path": "03 - University/6th Semester/Arquitectura De Software/Dorfman, Método De Análisis De Requerimientos Funcionales.md",
       "color": "tkYg5GNUNxVt6Pi3Ec-O7"
     },
     {
-      "path": "University/6th Semester/Arquitectura De Software/Modelos de Acceso a la Memoria.md",
+      "path": "03 - University/6th Semester/Arquitectura De Software/Modelos de Acceso a la Memoria.md",
       "color": "tkYg5GNUNxVt6Pi3Ec-O7"
     },
     {
-      "path": "University/6th Semester/Arquitectura De Software/Atributos de Calidad.md",
+      "path": "03 - University/6th Semester/Arquitectura De Software/Atributos de Calidad.md",
       "color": "tkYg5GNUNxVt6Pi3Ec-O7"
     },
     {
-      "path": "University/6th Semester/Arquitectura De Software/QAW, Quality Attribute Workshop.md",
+      "path": "03 - University/6th Semester/Arquitectura De Software/QAW, Quality Attribute Workshop.md",
       "color": "tkYg5GNUNxVt6Pi3Ec-O7"
     }
   ]

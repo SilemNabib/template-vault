@@ -40,7 +40,7 @@ el acceso a la memoria no es uniforme. La memoria está dividida en varios "nodo
 
 - **Sistemas multiprocesador avanzados**, como algunos sistemas de servidores de alto rendimiento.
 
-![[University/6th Semester/Arquitectura De Software/attachments/diagram-20241017.png#invert]]
+![[03 - University/6th Semester/Arquitectura De Software/attachments/diagram-20241017.png#invert]]
 
 #### Ventajas
 

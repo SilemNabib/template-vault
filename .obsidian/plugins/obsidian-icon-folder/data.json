@@ -41,37 +41,37 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "templates": {
-    "iconName": "LiLayoutTemplate",
-    "iconColor": "#004cff"
-  },
-  "docs": {
+  "00 - Docs": {
     "iconName": "LiBookOpen",
     "iconColor": "#81ff1a"
   },
-  "docs/attachments": "LiArchive",
-  "docs/plugins.md": "LiUnplug",
-  "docs/shortcuts.md": "LiKeyboard",
-  "docs/snippets.md": "LiCode",
-  "docs/useful-links.md": "LiLinksGoingOut",
-  "templates/file-templates": {
-    "iconName": "LiFilePen",
-    "iconColor": "#004cff"
-  },
-  "templates/file-templates/root-template.md": "LiNotepadTextDashed",
-  "temp": {
+  "00 - Docs/attachments": "LiArchive",
+  "00 - Docs/colors.md": "LiPalette",
+  "00 - Docs/plugins.md": "LiUnplug",
+  "00 - Docs/shortcuts.md": "LiKeyboard",
+  "00 - Docs/snippets.md": "LiCode",
+  "00 - Docs/useful-links.md": "LiLinksGoingOut",
+  "01 - Temp": {
     "iconName": "LiClockArrowUp",
     "iconColor": "#f5ff70"
   },
-  "University/6th Semester": "LiSquareEqual",
-  "University": "LiGraduationCap",
-  "templates/folder-templates": {
-    "iconName": "LiFolderEdit",
-    "iconColor": "#004cff"
+  "02 - Templates": {
+    "iconName": "LiLayoutTemplate",
+    "iconColor": "#009dff"
   },
-  "templates/folder-templates/notepad": "LiPanelLeftDashed",
-  "templates/folder-templates/semester": "LiSquareEqual",
-  "docs/colors.md": "LiPalette",
-  "University/6th Semester/Arquitectura De Software/Repaso Parcial 2 (Practico).md": "LiNewspaper",
-  "University/6th Semester/Arquitectura De Software/Temp NotePad.md": "LiPencil"
+  "02 - Templates/file-templates": {
+    "iconName": "LiFilePen",
+    "iconColor": "#009dff"
+  },
+  "02 - Templates/folder-templates": {
+    "iconName": "LiFolderEdit",
+    "iconColor": "#009dff"
+  },
+  "02 - Templates/folder-templates/notepad": "LiPanelLeftDashed",
+  "02 - Templates/folder-templates/semester": "LiSquareEqual",
+  "02 - Templates/file-templates/root-template.md": "LiNotepadTextDashed",
+  "03 - University": "LiGraduationCap",
+  "03 - University/6th Semester": "LiSquareEqual",
+  "03 - University/6th Semester/Arquitectura De Software/Repaso Parcial 2 (Practico).md": "LiNewspaper",
+  "03 - University/6th Semester/Arquitectura De Software/Temp NotePad.md": "LiPencil"
 }

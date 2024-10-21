@@ -3,6 +3,7 @@
   "cssTheme": "Typewriter",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "image-filter"
+    "image-filter",
+    "notebook-backgrounds"
   ]
 }

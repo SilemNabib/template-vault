@@ -1,10 +1,10 @@
 {
   "trashOption": "local",
   "newFileLocation": "folder",
-  "newFileFolderPath": "temp",
+  "newFileFolderPath": "01 - Temp",
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
   "foldIndent": true
 }
