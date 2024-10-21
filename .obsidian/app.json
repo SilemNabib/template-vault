@@ -4,7 +4,7 @@
   "newFileFolderPath": "01 - Temp",
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "livePreview": true,
+  "livePreview": false,
   "defaultViewMode": "preview",
   "foldIndent": true
 }
