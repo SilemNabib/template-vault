@@ -4,24 +4,29 @@ tags:
   - Data-Structure
   - Specialization
   - <%tp.file.title%>
-Specialization: 
+Specialization:
 cssclases:
 ---
 
 ## Concept Overview
 #### Description
-#### Common Applications
-
-
 <%*
-if (tp.frontmatter.tags.includes("Spec")) {
-    tR += "## Nombre SI";
+if (tp.frontmatter.tags.includes("Specialization")) {
+    tR += "#### Additional Properties\n";
+    tR += "\n"; // Añade una línea vacía para mejor formato
+    tR += "## Generic Implementation\n";
+    tR += "\n";
+    tR += "## Common Applications\n";
+    tR += "\n";
+    tR += `## Algorithms In ${tp.file.title}\n`; // Usa template strings para insertar tp.file.title correctamente
 } else {
-	tR += "## Nombre NO";    
+    tR += "#### Main Properties\n";
+    tR += "\n";
+    tR += "## Common Applications\n";
+    tR += "\n";
+    tR += "## Comparative Analysis\n";
+    tR += "\n";
+    tR += "#### Differences In Specialization\n";
+    tR += "#### Pros And Cons Between Specializations\n";
 }
 %>
-
-## Generic Implementation
-
-## Algorithms In <% tp.file.title %>
-

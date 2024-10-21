@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "DataStructure-template"
             }
-          },
-          {
-            "id": "1e3922b59bf4e02d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Temp/testing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "testing"
-            }
           }
         ]
       }
@@ -195,8 +181,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b5d0ca3595a4377",
+  "active": "7f9c1410e1833d33",
   "lastOpenFiles": [
+    "04 - DataStructures",
     "01 - Temp/testing.md",
     "02 - Templates/file-templates/DataStructure-template.md",
     "02 - Templates/file-templates/root-template.md",
