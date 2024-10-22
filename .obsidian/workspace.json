@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "c996e2d248e851fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Temp/Innovación Materia Picha.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Innovación Materia Picha"
-            }
-          },
-          {
             "id": "c70d0aebd553bebb",
             "type": "leaf",
             "state": {
@@ -49,8 +35,7 @@
               "title": "DataStructure-template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Temp/Innovación Materia Picha.md"
+                "file": "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Innovación Materia Picha"
+              "title": "Outline of Modelos Probabilísticos"
             }
           },
           {
@@ -211,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c996e2d248e851fd",
+  "active": "7e713144ba4a23be",
   "lastOpenFiles": [
     "02 - Templates/file-templates/DataStructure-template.md",
     "01 - Temp/Innovación Materia Picha.md",
