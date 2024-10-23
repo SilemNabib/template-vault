@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bcf07bc74ad4ba91",
+        "id": "4a8a904217d31d97",
         "type": "tabs",
         "children": [
           {
-            "id": "7e713144ba4a23be",
+            "id": "560266a91dbc526a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
+                "file": "01 - Temp/2024-10-23.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Modelos Probabilísticos"
-            }
-          },
-          {
-            "id": "c70d0aebd553bebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Templates/file-templates/DataStructure-template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DataStructure-template"
+              "title": "2024-10-23"
             }
           }
         ]
@@ -79,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2a1db5351f5924ec",
@@ -158,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md"
+                "file": "01 - Temp/2024-10-23.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Modelos Probabilísticos"
+              "title": "Outline of 2024-10-23"
             }
           },
           {
@@ -176,8 +163,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "45b1efdf275c1b4e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -188,18 +186,19 @@
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e713144ba4a23be",
+  "active": "560266a91dbc526a",
   "lastOpenFiles": [
+    "01 - Temp/2024-10-23.md",
     "02 - Templates/file-templates/DataStructure-template.md",
-    "01 - Temp/Innovación Materia Picha.md",
     "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
+    "01 - Temp/Innovación Materia Picha.md",
     "01 - Temp/Entrega Compunet.md",
     "03 - University/6th Semester/APO-III",
     "01 - Temp/Balanceo de Arboles AVL.md",
@@ -238,7 +237,6 @@
     "temporal-folder/example.md",
     "02 - Templates/folder-templates/notepad/notepad-name-map.canvas",
     "docs/attachments/Pasted image 20241017133554.png",
-    "00 - Docs/attachments/diagram-20241017.png",
-    "00 - Docs/shortcuts.md"
+    "00 - Docs/attachments/diagram-20241017.png"
   ]
 }
