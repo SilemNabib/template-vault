@@ -19,18 +19,21 @@ $$\mathbb{P}(\text{Heads}) = 0.5 \:\:\:\:\:\:\:\: \mathbb{P}(\text{Tails}) = 0.5
 **How do we assign a probability to an event?**
 ![[Pasted image 20241024075431.png]]
 
-## Joint Probability
+## Joint Probability $P(A \bigcap B)$
 
 The expression $P(A ∩ B)$ or equivalently $P(A, B)$ stands for the probability of the
 events $A ∩ B$. represents the joint probability of two events A and B occurring at
 the same time.
 
-## Conditional Probability
+## Conditional Probability $P(A | B)$
 
 The probability of an event given that another event has occurred. It can be calculated using the formula: $P(A|B) = P(A ∩ B) / P(B).$
 
 **Ex.** If there are 10 balls ($7$ red, $3$ blue), the probability of drawing a red ball after drawing a blue one is $P(\text{Red } | \text{ Blue}) = \frac{7}{10}$.
 
 ## Bayes' Theorem
+
+
+
 ## Independence of Events
 ## Marginalization

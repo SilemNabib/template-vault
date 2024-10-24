@@ -4,21 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "af3519fd3722e0af",
+        "id": "6d6c37fac0b78997",
         "type": "tabs",
         "children": [
           {
-            "id": "da217cd4b472c01c",
+            "id": "c2969392eafd733c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Modelos Probabilísticos"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa828b7ee870ffc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3facabbf8a985690",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AyPIIIdiapositivas17(24-2)G1"
             }
           }
         ]
@@ -65,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2a1db5351f5924ec",
@@ -144,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md"
+                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Modelos Probabilísticos"
+              "title": "Outline of AyPIIIdiapositivas17(24-2)G1"
             }
           },
           {
@@ -177,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,13 +211,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da217cd4b472c01c",
+  "active": "3facabbf8a985690",
   "lastOpenFiles": [
+    "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
+    "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf",
     "03 - University/6th Semester/APO-III/attachments/Pasted image 20241024075431.png",
     "03 - University/6th Semester/APO-III/attachments",
     "01 - Temp/2024-10-23.md",
     "02 - Templates/file-templates/DataStructure-template.md",
-    "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
     "01 - Temp/Innovación Materia Picha.md",
     "01 - Temp/Entrega Compunet.md",
     "03 - University/6th Semester/APO-III",
@@ -229,7 +250,6 @@
     "02 - Templates/folder-templates/semester/subject/attachments/readings",
     "02 - Templates/folder-templates/semester/subject/attachments",
     "02 - Templates/folder-templates/semester/subject",
-    "02 - Templates/folder-templates/semester",
     "temporal-folder/test.md",
     "templates/file-templates/test template.md",
     "temporal-folder/s.md",
