@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6d6c37fac0b78997",
+        "id": "712a7a67d7da774f",
         "type": "tabs",
         "children": [
           {
-            "id": "c2969392eafd733c",
+            "id": "221c534b87174ec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Modelos Probabilísticos"
-            }
-          },
-          {
-            "id": "32a714fdf3b22fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - University/6th Semester/APO-III/Bayesian Network.md",
+                "file": "01 - Temp/2024-10-25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bayesian Network"
-            }
-          },
-          {
-            "id": "c54ab1287b843d35",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AyPIIIdiapositivas19(24-2)G1"
+              "title": "2024-10-25"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2a1db5351f5924ec",
@@ -172,10 +144,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf"
+                "file": "01 - Temp/SW Patterns.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AyPIIIdiapositivas19(24-2)G1"
+              "title": "Outline of SW Patterns"
             }
           },
           {
@@ -205,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,12 +192,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c54ab1287b843d35",
+  "active": "221c534b87174ec0",
   "lastOpenFiles": [
+    "01 - Temp/2024-10-25.md",
+    "03 - University/6th Semester/Arquitectura De Software/attachments/sw-patterns (1).pdf",
+    "01 - Temp/SW Patterns.md",
+    "03 - University/6th Semester/Arquitectura De Software/Temp NotePad.md",
+    "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
     "03 - University/6th Semester/APO-III/Bayesian Network.md",
     "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf",
     "03 - University/6th Semester/APO-III/AyPIIIdiapositivas20(24-2)G1.pdf",
-    "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
     "03 - University/6th Semester/APO-III/attachments/Pasted image 20241024114559.png",
     "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf",
     "03 - University/6th Semester/APO-III/attachments/Pasted image 20241024075431.png",
@@ -246,7 +223,6 @@
     "03 - University/6th Semester/Arquitectura De Software/Repaso Parcial 2 (Practico).md",
     "03 - University/6th Semester/Arquitectura De Software/Dorfman, Método De Análisis De Requerimientos Funcionales.md",
     "03 - University/6th Semester/Arquitectura De Software/Modelos de Acceso a la Memoria.md",
-    "03 - University/6th Semester/Arquitectura De Software/Temp NotePad.md",
     "03 - University/6th Semester/Arquitectura De Software/Atributos de Calidad.md",
     "03 - University/6th Semester/Arquitectura De Software/RAS, Requerimientos de Atributos de Calidad.md",
     "03 - University/6th Semester/Arquitectura De Software/QAW, Quality Attribute Workshop.md",
@@ -259,9 +235,7 @@
     "diagram-20241017(1).png",
     "00 - Docs/useful-links.md",
     "03 - University/6th Semester/Arquitectura De Software",
-    "02 - Templates/folder-templates/semester/subject/attachments/readings",
     "temporal-folder/test.md",
-    "templates/file-templates/test template.md",
     "02 - Templates/folder-templates/notepad/notepad-name-map.canvas",
     "docs/attachments/Pasted image 20241017133554.png",
     "00 - Docs/attachments/diagram-20241017.png"
