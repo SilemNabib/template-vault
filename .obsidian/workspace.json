@@ -14,32 +14,41 @@
               "type": "markdown",
               "state": {
                 "file": "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Modelos Probabilísticos"
             }
-          }
-        ]
-      },
-      {
-        "id": "aa828b7ee870ffc9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3facabbf8a985690",
+            "id": "32a714fdf3b22fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - University/6th Semester/APO-III/Bayesian Network.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Network"
+            }
+          },
+          {
+            "id": "c54ab1287b843d35",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf"
+                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "AyPIIIdiapositivas17(24-2)G1"
+              "title": "AyPIIIdiapositivas19(24-2)G1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf"
+                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of AyPIIIdiapositivas17(24-2)G1"
+              "title": "Outline of AyPIIIdiapositivas19(24-2)G1"
             }
           },
           {
@@ -196,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,9 +219,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3facabbf8a985690",
+  "active": "c54ab1287b843d35",
   "lastOpenFiles": [
+    "03 - University/6th Semester/APO-III/Bayesian Network.md",
+    "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf",
+    "03 - University/6th Semester/APO-III/AyPIIIdiapositivas20(24-2)G1.pdf",
     "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
+    "03 - University/6th Semester/APO-III/attachments/Pasted image 20241024114559.png",
     "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf",
     "03 - University/6th Semester/APO-III/attachments/Pasted image 20241024075431.png",
     "03 - University/6th Semester/APO-III/attachments",
@@ -248,11 +260,8 @@
     "00 - Docs/useful-links.md",
     "03 - University/6th Semester/Arquitectura De Software",
     "02 - Templates/folder-templates/semester/subject/attachments/readings",
-    "02 - Templates/folder-templates/semester/subject/attachments",
-    "02 - Templates/folder-templates/semester/subject",
     "temporal-folder/test.md",
     "templates/file-templates/test template.md",
-    "temporal-folder/s.md",
     "02 - Templates/folder-templates/notepad/notepad-name-map.canvas",
     "docs/attachments/Pasted image 20241017133554.png",
     "00 - Docs/attachments/diagram-20241017.png"

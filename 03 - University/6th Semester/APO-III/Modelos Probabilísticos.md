@@ -32,8 +32,22 @@ The probability of an event given that another event has occurred. It can be cal
 **Ex.** If there are 10 balls ($7$ red, $3$ blue), the probability of drawing a red ball after drawing a blue one is $P(\text{Red } | \text{ Blue}) = \frac{7}{10}$.
 
 ## Bayes' Theorem
+Probability review What is the Bayes’ Theorem? Bayes’Theorem gives a mathematical rule for inverting conditional probabilities, allowing us to find the probability of a cause given its effect.
 
+- Having $P(A|B) = \frac{P(A \bigcap B)}{P(B)}$
+- Having $P(B|A) = \frac{P(B \bigcap A)}{P(A)}$
+- By solving both equations for $P(A \bigcap B)$ and equating them we obtain Bayes’ theorem
+
+$$P(B|A) = \frac{P(B \bigcap A) \cdot P(A)}{P(B)}$$
 
 
 ## Independence of Events
+When do we call two events independent?
+
+- Two events $A$ and $B$ are said to be independent if $P(A|B) = P(A)$. 
+- In other words, $B$ provides no information about whether $A$ has occurred. 
+- $P(A ∩ B) = P(A) · P(B)$
+
+
 ## Marginalization
+![[Pasted image 20241024114559.png]]
