@@ -57,11 +57,25 @@
               "type": "markdown",
               "state": {
                 "file": "03 - University/6th Semester/APO-III/Bayesian Network.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Bayesian Network"
+            }
+          },
+          {
+            "id": "4581fe8e0e8f34c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Modelos Probabilísticos"
             }
           }
         ]
@@ -188,10 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf"
+                "file": "03 - University/6th Semester/APO-III/Bayesian Network.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AyPIIIdiapositivas19(24-2)G1"
+              "title": "Outline of Bayesian Network"
             }
           },
           {
@@ -236,11 +250,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09543aef85710187",
+  "active": "f75bbda297619966",
   "lastOpenFiles": [
+    "03 - University/6th Semester/APO-III/attachments/Pasted image 20241028234046.png",
+    "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
     "03 - University/6th Semester/APO-III/Bayesian Network.md",
     "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf",
-    "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
     "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf",
     "04 - DataStructures/Discretas-I/CyED1_diapositivas19(24-2).pdf",
     "04 - DataStructures/Discretas-I/CyEDIdiapositivas8(24-2).pdf",
