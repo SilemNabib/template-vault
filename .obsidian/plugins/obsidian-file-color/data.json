@@ -26,6 +26,11 @@
       "id": "tkYg5GNUNxVt6Pi3Ec-O7",
       "name": "pending",
       "value": "#ffc038"
+    },
+    {
+      "id": "SWOw1RiWHKo-TwYnmc8fd",
+      "name": "diario",
+      "value": "#c800ff"
     }
   ],
   "fileColors": [
@@ -84,6 +89,10 @@
     {
       "path": "03 - University/6th Semester/Arquitectura De Software/QAW, Quality Attribute Workshop.md",
       "color": "tkYg5GNUNxVt6Pi3Ec-O7"
+    },
+    {
+      "path": "99 - Diario",
+      "color": "SWOw1RiWHKo-TwYnmc8fd"
     }
   ]
 }

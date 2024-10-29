@@ -21,9 +21,7 @@ $$\mathbb{P}(\text{Heads}) = 0.5 \:\:\:\:\:\:\:\: \mathbb{P}(\text{Tails}) = 0.5
 
 ## Joint Probability $P(A \bigcap B)$
 
-The expression $P(A ∩ B)$ or equivalently $P(A, B)$ stands for the probability of the
-events $A ∩ B$. represents the joint probability of two events A and B occurring at
-the same time.
+The expression $P(A ∩ B)$ or equivalently $P(A, B)$ stands for the probability of the events $A ∩ B$. represents the joint probability of two events A and B occurring at the same time.
 
 ## Conditional Probability $P(A | B)$
 

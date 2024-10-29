@@ -11,14 +11,57 @@
             "id": "221c534b87174ec0",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AyPIIIdiapositivas19(24-2)G1"
+            }
+          },
+          {
+            "id": "2d09ce1a55971dd9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AyPIIIdiapositivas17(24-2)G1"
+            }
+          },
+          {
+            "id": "09543aef85710187",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AyPIIIdiapositivas19(24-2)G1"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "425bef0b20e800a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f75bbda297619966",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Temp/2024-10-25.md",
+                "file": "03 - University/6th Semester/APO-III/Bayesian Network.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-10-25"
+              "title": "Bayesian Network"
             }
           }
         ]
@@ -65,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2a1db5351f5924ec",
@@ -144,10 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Temp/SW Patterns.md"
+                "file": "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of SW Patterns"
+              "title": "Outline of AyPIIIdiapositivas19(24-2)G1"
             }
           },
           {
@@ -192,31 +236,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "221c534b87174ec0",
+  "active": "09543aef85710187",
   "lastOpenFiles": [
-    "01 - Temp/2024-10-25.md",
-    "03 - University/6th Semester/Arquitectura De Software/attachments/sw-patterns (1).pdf",
-    "01 - Temp/SW Patterns.md",
-    "03 - University/6th Semester/Arquitectura De Software/Temp NotePad.md",
-    "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
     "03 - University/6th Semester/APO-III/Bayesian Network.md",
     "03 - University/6th Semester/APO-III/AyPIIIdiapositivas19(24-2)G1.pdf",
-    "03 - University/6th Semester/APO-III/AyPIIIdiapositivas20(24-2)G1.pdf",
-    "03 - University/6th Semester/APO-III/attachments/Pasted image 20241024114559.png",
+    "03 - University/6th Semester/APO-III/Modelos Probabilísticos.md",
     "03 - University/6th Semester/APO-III/AyPIIIdiapositivas17(24-2)G1.pdf",
+    "04 - DataStructures/Discretas-I/CyED1_diapositivas19(24-2).pdf",
+    "04 - DataStructures/Discretas-I/CyEDIdiapositivas8(24-2).pdf",
+    "04 - DataStructures/Discretas-I/CyEDIdiapositivas7-8(24-2).pdf",
+    "04 - DataStructures/Discretas-I/CyEDIdiapositivas6(24-2).pdf",
+    "04 - DataStructures/Discretas-I/CyEDIdiapositivas5(24-2).pdf",
+    "04 - DataStructures/Discretas-I/CyEDIdiapositivas4(24-2).pdf",
+    "04 - DataStructures/Discretas-I/CyEDIdiapositivas3(24-2).pdf",
+    "04 - DataStructures/Discretas-I/CyEDIdiapositivas2(24-2).pdf",
+    "03 - University/6th Semester/APO-III/attachments/Pasted image 20241028215709.png",
+    "03 - University/6th Semester/APO-III/attachments/Pasted image 20241028211535.png",
+    "01 - Temp/2024-10-25.md",
+    "01 - Temp/SW Patterns.md",
+    "03 - University/6th Semester/Arquitectura De Software/Temp NotePad.md",
+    "03 - University/6th Semester/APO-III/attachments/Pasted image 20241024114559.png",
     "03 - University/6th Semester/APO-III/attachments/Pasted image 20241024075431.png",
-    "03 - University/6th Semester/APO-III/attachments",
     "01 - Temp/2024-10-23.md",
     "02 - Templates/file-templates/DataStructure-template.md",
     "01 - Temp/Innovación Materia Picha.md",
     "01 - Temp/Entrega Compunet.md",
-    "03 - University/6th Semester/APO-III",
     "01 - Temp/Balanceo de Arboles AVL.md",
-    "04 - DataStructures",
     "01 - Temp/testing.md",
     "02 - Templates/file-templates/root-template.md",
     "01 - Temp/attachments/Pasted image 20241021103343.png",
-    "01 - Temp/attachments",
     "00 - Docs/colors.md",
     "README.md",
     "Untitled.md",
@@ -231,11 +279,8 @@
     "03 - University/6th Semester/Arquitectura De Software/attachments/diagram-20241017.png",
     "00 - Docs/plugins.md",
     "03 - University/6th Semester/Arquitectura De Software/attachments/diagram-20241017(1).png",
-    "03 - University/6th Semester/Arquitectura De Software/attachments",
     "diagram-20241017(1).png",
     "00 - Docs/useful-links.md",
-    "03 - University/6th Semester/Arquitectura De Software",
-    "temporal-folder/test.md",
     "02 - Templates/folder-templates/notepad/notepad-name-map.canvas",
     "docs/attachments/Pasted image 20241017133554.png",
     "00 - Docs/attachments/diagram-20241017.png"
