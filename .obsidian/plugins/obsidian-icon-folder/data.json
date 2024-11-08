@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAppWindowMac",
+      "LiBrickWall",
       "LiReceiptIndianRupee",
       "LiToyBrick",
-      "LiNotepadTextDashed",
-      "LiPencil",
-      "LiNewspaper"
+      "LiNotepadTextDashed"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -76,5 +76,6 @@
   "03 - University/6th Semester/Arquitectura De Software/Temp NotePad.md": "LiPencil",
   "02 - Templates/file-templates/DataStructure-template.md": "LiNotepadTextDashed",
   "04 - DataStructures": "LiToyBrick",
-  "99 - Diario": "LiReceiptIndianRupee"
+  "99 - Diario": "LiReceiptIndianRupee",
+  "Software Architecture": "LiAppWindowMac"
 }
